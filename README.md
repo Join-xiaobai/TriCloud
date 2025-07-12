@@ -16,4 +16,11 @@ This is a project about TriCloud model and its related data set files.
    This folder is for model training using normal vectors as features (spatial geometric features)
    To start the model set the parameters in the main file and run it.
    The test results for this experiment are in the TriCloud/test folder
-3. 
+3. TriCloud code (semantic features)
+   This folder is a version of TriCloud trained with semantic features
+   TriCloud_feature: semantic feature generation architecture code
+      1.feature_train.py: Feature framework pre-training
+      2.feature_extract.py: Feature extraction using the trained framework
+      3.feature_id_index.py: Mapping drug, target, and disease names to ID numbers based on a dictionary
+   TriCloud_train: Training code for the model
+   
