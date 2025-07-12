@@ -1,0 +1,11 @@
+Model Evaluation Metrics:
+========================
+Accuracy: 0.8619
+Precision: 0.9011
+Recall: 0.8171
+F1-score: 0.8571
+ROC AUC: 0.9381
+PR AUC (AUPR): 0.9500
+
+Additional Info:
+Total samples evaluated: 3895
