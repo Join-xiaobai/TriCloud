@@ -23,4 +23,6 @@ This is a project about TriCloud model and its related data set files.
       2.feature_extract.py: Feature extraction using the trained framework
       3.feature_id_index.py: Mapping drug, target, and disease names to ID numbers based on a dictionary
    TriCloud_train: Training code for the model
+      The model can be trained by configuring the parameters in the train file and running it.
+
    
