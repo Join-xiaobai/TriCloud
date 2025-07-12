@@ -1,0 +1,1 @@
+Replace the corresponding dataset.py with the dataset.py from the TriCloud_train folder in the 3. TriCloud code (semantic features) folder and train the model.
