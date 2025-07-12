@@ -15,4 +15,5 @@ This is a project about TriCloud model and its related data set files.
 2. TriCloud code (normal vector features)
    This folder is for model training using normal vectors as features (spatial geometric features)
    To start the model set the parameters in the main file and run it.
+   The test results for this experiment are in the TriCloud/test folder
 3. 
