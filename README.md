@@ -36,7 +36,7 @@ This is a project about TriCloud model and its related data set files.
       This folder contains the results of experiments using the dataset of this paper for negative sample feature exploration
       This can be done by replacing the dataset.py file with the dataset.py file in the TriCloud_train folder inside the 3. TriCloud code (semantic features) folder and running it (the default grouping in this paper is 1).
 
-The main core code, dataset and its description are shown above. About the core framework of this paper is shown below.
+The main core code, dataset and its description are shown above. About the core framework of the paper is shown below.
 
 <img width="1859" height="1523" alt="TriCloud模型架构设计" src="https://github.com/user-attachments/assets/ddd7fbb0-3fd3-414e-b266-e56d6fecf102" />
 
