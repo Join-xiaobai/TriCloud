@@ -12,5 +12,7 @@ This is a project about TriCloud model and its related data set files.
       drug_gene_disease_coordinate.txt: Results after adding column names
    3. Initialize the normal vector of 3D coordinates and its normalization result
       This folder contains operations such as generating normal vector features for positive/negative samples, normalizing the coordinates and their normal vectors, and adding labeled columns.
-
-      
+2. TriCloud code (normal vector features)
+   This folder is for model training using normal vectors as features (spatial geometric features)
+   To start the model set the parameters in the main file and run it.
+3. 
